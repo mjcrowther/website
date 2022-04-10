@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael J. Crowther
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Biostatistician & Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Red Door Analytics AB
+  url: https://reddooranalytics.se
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include survival analysis, joint modelling, and software development.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Survival Analysis
 - Computational Linguistics
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Medical Statistics
+    institution: University of Leicester
+    year: 2014
+  - course: MSc in Medicial Biostatistics
+    institution: University of Leicester
+    year: 2010
+  - course: MMath (Hons) in Mathematics and Statistics
+    institution: University of St Andres
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Crowther_MJ
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=14iF_88AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mjcrowther
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/michael-crowther-898208170/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michael was for many years an academic biostatistician, rising to Associate Professor of Biostatistics at the University of Leicester, before relocating to Stockholm in 2021 to pursue some new challenges. He is an internationally renowned expert in survival analysis and joint longitudinal-survival models, having made numerous contributions to the fields, and widely respected as a leading statistical software developer. He has developed and taught many training courses on his research, and is a Fellow of the UK Higher Education Academy. He currently holds a 20% position as a Biostatistician at the Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, is an Honorary Senior Lecturer at the University of Bristol, and spends the rest of his time running [Red Door Analytics](https://reddooranalytics.se).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+PLEASE NOTE - the material from this website has now been ported to [reddooranalytics.se](https://reddooranalytics.se).
