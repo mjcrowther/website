@@ -18,9 +18,9 @@ bio: My research interests include survival analysis, joint modelling, and softw
 
 # Interests to show in About widget
 interests:
-- Survival Analysis
-- Computational Linguistics
-- Information Retrieval
+- Survival analysis
+- Joint models
+- Software development
 
 # Education to show in About widget
 education:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:michael@reddooranalytics.se'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Crowther_MJ
@@ -73,3 +73,9 @@ highlight_name: false
 Michael was for many years an academic biostatistician, rising to Associate Professor of Biostatistics at the University of Leicester, before relocating to Stockholm in 2021 to pursue some new challenges. He is an internationally renowned expert in survival analysis and joint longitudinal-survival models, having made numerous contributions to the fields, and widely respected as a leading statistical software developer. He has developed and taught many training courses on his research, and is a Fellow of the UK Higher Education Academy. He currently holds a 20% position as a Biostatistician at the Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, is an Honorary Senior Lecturer at the University of Bristol, and spends the rest of his time running [Red Door Analytics](https://reddooranalytics.se).
 
 *The material from this website has now been ported to [reddooranalytics.se](https://reddooranalytics.se).*
+
+[`merlin`'s new home...](https://reddooranalytics.se/products/merlin)
+
+[`multistate`'s new home...](https://reddooranalytics.se/products/multistate)
+
+
