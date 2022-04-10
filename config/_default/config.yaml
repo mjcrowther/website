@@ -5,7 +5,7 @@
 
 title: Michael J. Crowther # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Michael Crowther' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
