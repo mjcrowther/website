@@ -1,0 +1,29 @@
+---
+title: A new home on Red Door Analytics
+subtitle: All the material from this site has been ported to a new home on reddooranalytics.se
+
+# Summary for listings and search engines
+summary: All the material from this site has been ported to a new home on reddooranalytics.se
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2022-04-11T00:00:00Z"
+
+# Date updated
+lastmod: "2022-04-11T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+
+authors:
+- admin
+
+---
