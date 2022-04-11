@@ -2,7 +2,7 @@
 title: Welcome to Red Door Analytics
 
 # Summary for listings and search engines
-summary: All the material from this site has now been ported to a new home on [Red Door Analytics](https://reddooranalytics.se).
+summary: All the material from this site has now been ported to a new home with Red Door Analytics.
 
 # Link this post with a project
 projects: []
