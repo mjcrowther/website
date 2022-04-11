@@ -41,3 +41,6 @@ So I started a company called **[Red Door Analytics](https://reddooranalytics.se
 - Our **[new blog page](https://reddooranalytics.se/blog)** is up and running, with most of the material from this website now moved over (and updated!). Related, we have a curated **[Tutorials page](https://reddooranalytics.se/resources/tutorials)**, which groups together blog posts into areas such as survival analysis, joint modelling, etc.
 - Meet our **[Team Members](https://reddooranalytics.se/about)**, who are research active biostatisticians - check out our **[Publications page](https://reddooranalytics.se/research/publications)** to read about our latest work.
 
+Want to find out more? Just drop me an email: [michael@reddooranalytics.se](mailto:michael@reddooranalytics.se).
+
+Michael
