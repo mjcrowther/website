@@ -37,7 +37,7 @@ twitter:
 
 So I started a company called **[Red Door Analytics](https://reddooranalytics.se)**. Here's the highlights:
 
-- We're a consultancy company specialising in advanced statistical methods, software development, with a general focus on survival analysis.
+- We're a consultancy company specialising in advanced statistical methods and software development, with a general focus on survival analysis.
 - Our **[Products](https://reddooranalytics.se/products)** page details the new home for our freely available software packages including [`merlin`](https://reddooranalytics.se/products/merlin) and [`multistate`](https://reddooranalytics.se/products/multistate).
 - We provide a range of **[Services](https://reddooranalytics.se/services)** to our clients, including expert biostatistics consulting, software development and product application.
 - We are developing a range of **[Training Courses](https://reddooranalytics.se/serives/training)** on cutting-edge statistical methods, including joint modelling and multi-state survival modelling.
