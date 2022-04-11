@@ -30,6 +30,9 @@ image:
 authors:
 - admin
 
+twitter:
+  image: 'featured.png'
+
 ---
 
 So I started a company called **[Red Door Analytics](https://reddooranalytics.se)**. Here's the highlights:
