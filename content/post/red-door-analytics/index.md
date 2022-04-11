@@ -1,6 +1,5 @@
 ---
-title: A new home on Red Door Analytics
-subtitle: All the material from this site has now been ported to a new home on [Red Door Analytics](https://reddooranalytics.se).
+title: Welcome to Red Door Analytics
 
 # Summary for listings and search engines
 summary: All the material from this site has now been ported to a new home on [Red Door Analytics](https://reddooranalytics.se).
